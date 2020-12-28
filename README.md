@@ -1,4 +1,4 @@
-# Alien_Invasion_py
+# Alien Invasion
 This is a alien invasion game based on python
 
 # How to use
